@@ -1,0 +1,18 @@
+{
+  "name": "Nuxt Firebase-Module",
+  "platforms": [
+    "Web"
+  ],
+  "content": "README.md",
+  "pages": [],
+  "tabs": [
+    {
+      "title": "Full Documentation",
+      "href": "https://firebase.nuxtjs.org/"
+    },
+    {
+      "title": "Nuxt.js (v2), Firestore & SSR",
+      "href": "https://medium.com/@pascalluther/nuxt-js-v2-firestore-ssr-938d8fb7d2b0"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@nuxtjs/firebase-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "content-theme-docs-with-slots": "0.8.2",
+    "nuxt": "^2.15.0"
+  },
+  "devDependencies": {
+    "nuxt-ackee": "^2.0.0"
+  }
+}
